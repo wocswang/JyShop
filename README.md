@@ -16,8 +16,7 @@
 ### 最后部署到服务器中采用,centry服务需要使用docker部署（python安装也可以，只是依赖比较多容易出错）
 ### mysql采用5.7版本即可，存储引擎需INNODB
 ### 第三方平台的使用需要到所使用的的第三方开发平台去配置添加
-### 如果该项目对您学习或工作有帮助，欢迎start
 ## 项目功能
-![image](https://github.com/wocswang/JyShop/blob/master/JYSHOP/project.jpg)
+![image](https://github.com/wocswang/JyShop/blob/master/project.jpg)
 ### 具体部署功能可查看我的另一个项目Eduonline
 ### 如果该项目对您学习或工作有帮助，欢迎start
